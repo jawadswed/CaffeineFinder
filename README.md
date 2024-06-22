@@ -1,2 +1,2 @@
 # CaffeineFinder
-an Android Application to find coffee places near me
+An Android Application to find coffee places near me
